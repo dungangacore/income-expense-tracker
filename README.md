@@ -26,3 +26,5 @@ python main.py
 ## License
 
 This code is free to use, edit, and modify.
+No executable (.exe) is provided — this project is intended for developers to explore the source code directly.  
+Unauthorized commercial use or redistribution is not permitted.
